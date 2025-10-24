@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # LegalEase
-=======
+
 # Lexi Simplify - Legal Document AI Platform
 
 An AI-powered platform that demystifies complex legal documents by providing clear, accessible summaries and explanations using Google Cloud's generative AI technologies.
@@ -122,5 +122,6 @@ This is a prototype application. For production use, additional security measure
 
 ## License
 
+
 This project is for educational and demonstration purposes.
->>>>>>> bed45a3 (Initial commit - added project files)
+
