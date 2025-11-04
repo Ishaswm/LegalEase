@@ -5,6 +5,7 @@
 
 An AI-powered platform that demystifies complex legal documents by providing clear, accessible summaries and explanations using Google Cloud's generative AI technologies.
 
+### Demo - https://lexi-simplify-822987556610.us-central1.run.app/
 ## Features
 
 - **Document Upload**: Upload PDF legal documents for analysis
@@ -124,4 +125,5 @@ This is a prototype application. For production use, additional security measure
 
 
 This project is for educational and demonstration purposes.
+
 
