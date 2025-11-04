@@ -1,7 +1,7 @@
 
 # LegalEase
 
-# Lexi Simplify - Legal Document AI Platform
+# LLM-Orchestrated Legal Intelligence System
 
 An AI-powered platform that demystifies complex legal documents by providing clear, accessible summaries and explanations using Google Cloud's generative AI technologies.
 
@@ -125,5 +125,6 @@ This is a prototype application. For production use, additional security measure
 
 
 This project is for educational and demonstration purposes.
+
 
 
